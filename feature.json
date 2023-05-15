@@ -1,0 +1,12 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "info": "info, argentina memenangkan piala dunia 2022",
+        "quote_by": "lukman",
+        "quote": "lorem ipsum",
+        "config": {
+            "upload_image": true
+        }
+    }
+}
