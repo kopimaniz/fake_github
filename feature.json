@@ -5,6 +5,7 @@
         "info": "info, argentina memenangkan piala dunia 2022",
         "quote_by": "lukman",
         "quote": "lorem ipsum",
-        "upload_image": true
+        "upload_image": true,
+        "current_app_version": 19
     }
 }
